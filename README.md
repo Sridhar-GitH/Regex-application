@@ -13,7 +13,7 @@ Regex Matcher is a web application designed to assist users in testing regular e
 ## Deployment 🌐
 
 The application is hosted on an AWS EC2 server, ensuring accessibility to users worldwide. 🌍
-
+**<a href="http://54.87.159.227:5000/">Visit Here</a>**
 ## Additional Information ℹ️
 
 To understand how to use the Regex Matcher effectively, please refer to the following:
